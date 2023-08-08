@@ -1,0 +1,28 @@
+{
+    "pushes": [
+        {
+            "trail": "ICT",
+            "trailHead": "Alex George Wetland Park, Kansas City, MO",
+            "trailLengthOneWay": "25 miles",
+            "photoUrl": "https://lh3.googleusercontent.com/p/AF1QipOFTGLJrLA3hqCmOwFGpvx1VjXDv2XzEcAzxlkN=s680-w680-h510"
+        },
+        {
+            "trail": "Line Creek",
+            "trailHead": "Homestead Park, Riverside, MO",
+            "trailLengthOneWay": "8 miles",
+            "photoUrl": "https://media-cdn.tripadvisor.com/media/photo-s/18/cc/85/8b/trail-at-homestead-park.jpg"
+        },
+        {
+            "trail": "Rock Island Trail",
+            "trailHead": "Kauffman Stadium Lot L, Kansas City, MO",
+            "trailLengthOneWay": "15 miles",
+            "photoUrl": "https://static1.squarespace.com/static/5c60912c77b903f8f5ddd20b/t/5fa1622999f6587d303f3dbb/1604411954641/DSC_0208+LR.jpg?format=1500w"
+        },
+        {
+            "trail": "Katy Trail",
+            "trailHead": "Rock Island Spur Pleasant Hill Trailhead, Pleasant Hill, MO",
+            "trailLengthOneWay": "240 miles",
+            "photoUrl": "https://mostateparks.com/sites/mostateparks/files/flickrcache/72177720304985128/53012545561.jpg"
+        }
+    ]
+}
